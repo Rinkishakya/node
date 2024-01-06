@@ -35,7 +35,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 * [License](#license)
 
 ## Support
-
+adit by Rinki shakya
 Looking for help? Check out the
 [instructions for getting support](.github/SUPPORT.md).
 
